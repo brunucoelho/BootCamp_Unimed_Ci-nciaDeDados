@@ -7,5 +7,5 @@
 - VSCode;
 - Linguagem Python;
 - SQL;
-- Machine Learning;
-- AI.
+- Machine Learning (AI).
+- Serverless Cloud (AWS)
