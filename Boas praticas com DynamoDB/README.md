@@ -1,5 +1,5 @@
 # dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+Repositório sobre o Amazon DynamoDB, desafio do BootCamp Unimed - Ciência de Dados
 
 ### Serviço utilizado
   - Amazon DynamoDB
